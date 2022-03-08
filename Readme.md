@@ -7,7 +7,7 @@ The programming language with just one variable
 Just `make` in the project directory
 
 # Programming in scoop
-see <a href=Programming_guide>The programming guide for details</a>
+see <a href=Programming_guide.md>The programming guide for details</a>
 
 # The programs
 
