@@ -81,9 +81,17 @@ Example:
 ```
 	while <= 128
 		show
+		add 1
 	endwhile
 ```
 <br>There's no `break` equivalent, so you must be very careful
 # Tricks
 
-A loop that always runs: `while >= 0`, as `a` will return to `0` if assined `256`
+A loop that always runs: `while >= 0`, as `a` will return to `0` if assigned `256`. You can even change the value of `a` in the loop!<br>
+Example:<br>
+```
+	while >= 0
+		print
+		add 1
+	endwhile
+```
