@@ -55,7 +55,7 @@ where `condition` may be:
 	<br>- `<= number`: checks if `a` is less or equal to `number`
 	<br>- `< number`: checks if `a` is less than `number`
 	<br>- `> number`: checks if `a` is greater than `number`
-	<br>- `!= number`: checks if `a` is differente from `number`
+	<br>- `!= number`: checks if `a` is different from `number`
 <br> So far, so good, but here's the first thorn in the butt:
 <br> There's no `else` nor `else if`. It's not that difficult to put nested if's...or not.
 <br><br> First rule of nested `if`s in scoop: only one `endif` is written in the whole block
