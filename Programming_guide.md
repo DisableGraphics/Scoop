@@ -84,7 +84,7 @@ Example:
 		add 1
 	endwhile
 ```
-<br>There's no `break` equivalent, so you must be very careful
+<br>Note: There's no `break` equivalent, for added insanity
 # Tricks
 
 A loop that always runs: `while >= 0`, as `a` will return to `0` if assigned `256`. You can even change the value of `a` in the loop!<br>
