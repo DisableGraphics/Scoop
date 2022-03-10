@@ -6,13 +6,14 @@ This guide will follow the recommended programming style for scoop, but you are 
 
 # Indentation
 
-Just a single tab when opening blocks is fine
+Just a single tab (Or 4 spaces) when opening blocks is fine
 <br> Example:<br>
-`"if >= 0"`
-<br> `"    if <= 3"`
-<br> `"    show"`
-<br> `"endif"`
-<br> Note: do not write the double quotes, it's to maintain format, since Markdown doesn't let me put more than one space, for some reason
+```
+if >= 0
+    if <= 3
+    show
+endif
+```
 
 # Printing messages in the screen
 
