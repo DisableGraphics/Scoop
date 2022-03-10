@@ -25,3 +25,5 @@ Example:<br>
 `set l print print` <br>
 `set o print`<br>
 Note how `l` has been printed in the screen two times, being assigned just one. Another `set l` would be redundant.
+
+<br>Redundant instructions will be considered bad practice
