@@ -25,7 +25,7 @@ Let's see some instructions: (Note that 'number' does not mean literally the wor
 - `max`: Sets `a` to 255<br>
 - `set number/char`: Sets `a` to the number or to the ASCII value of the char (Ex: `set 120`)<br>
 - `input`: Will wait for user input and will set `a` to its value. Note that it must be either an ASCII character or a 0-255 integer <br>
-- `random`: Sets `a` to a random value between 0 and 255
+- `random lower higher`: Sets `a` to a random value between `lower` and `higher`
 
 Ok, so this seems pretty easy, for now, but, hey, how the heck do we output these values?
 
